@@ -49,13 +49,6 @@ python eval.py --model-file mymodel.pth --benchmark CMU-MOSEI
 
 >📋  Describe the evaluation process, and give commands that produce the results.
 
-## Models
-
-You can download the checkpoint of models here:
-
-- [model]. 
-
-
 ## Contributing
 
 >📋  Pick a licence. 
